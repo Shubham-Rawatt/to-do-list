@@ -1,4 +1,5 @@
 # To-do list
 
 
-http://localhost:5173/
+A basic To-Do List web app where you can add, delete, and mark tasks as completed  
+
